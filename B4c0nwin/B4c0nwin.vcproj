@@ -3,7 +3,7 @@
 	ProjectType="Visual C++"
 	Version="9.00"
 	Name="B4c0nwin"
-	ProjectGUID="{D07D541C-05E9-49CC-9090-4238AB392C38}"
+	ProjectGUID="{0231E6FE-B3AE-4C37-8416-A830677A2F60}"
 	RootNamespace="gyazowin"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="131072"

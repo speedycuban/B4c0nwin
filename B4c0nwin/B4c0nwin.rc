@@ -83,12 +83,12 @@ BEGIN
         BEGIN
             VALUE "Comments",         ""
             VALUE "CompanyName",      ""
-			VALUE "FileDescription",  "Gyazo: Screen Uploader"
+			VALUE "FileDescription",  "B4c0n Snap"
             VALUE "FileVersion",      VER_FILEVERSION_STR
-            VALUE "InternalName",     "Gyazo"
-            VALUE "OriginalFileName", "Gyazo.exe"
-            VALUE "LegalCopyright",   "(c) Toshiyuki Masui"
-            VALUE "ProductName",      "Gyazo"
+            VALUE "InternalName",     "B4c0n"
+            VALUE "OriginalFileName", "B4c0n.exe"
+            VALUE "LegalCopyright",   ""
+            VALUE "ProductName",      "B4c0n Snap"
             VALUE "ProductVersion",   VER_PRODUCTVERSION_STR
         END
     END

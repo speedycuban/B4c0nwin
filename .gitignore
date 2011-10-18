@@ -1,0 +1,10 @@
+.DS_Store
+Debug/
+debug/
+Release/
+release/
+Output/
+output/
+*.suo
+*.ncb
+B4c0nwin.vcproj.*
